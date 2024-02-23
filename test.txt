@@ -1,0 +1,20 @@
+rice,100,20
+tea,100,20
+pulses,100,20
+salt,100,20
+apples, 100,20
+bread, 100,20
+cheese, 100,20
+pasta, 100,20
+cereal, 100,20
+yogurt, 100,20
+peanut butter, 100,20
+jelly, 100,20
+coffee, 100,20
+black beans,100,20
+chips, 100,20
+water, 100,20
+honey, 100,20
+milk,100,20
+pepper,100,20
+peas, 100,20
