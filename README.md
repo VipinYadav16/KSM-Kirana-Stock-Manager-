@@ -30,10 +30,4 @@ Additional Notes:
 2. Consider using a database for more robust data storage in the future.
 3. Explore advanced GUI features with Tkinter for a more visually appealing interface.
 
-Contributing:
-1. Fork this repository.
-2. Create a branch for your changes.
-3. Make your changes and commit them.
-4. Push your changes to your fork and submit a pull request.
-
 
